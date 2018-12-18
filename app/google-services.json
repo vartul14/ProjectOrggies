@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "213560097877",
+    "firebase_url": "https://projectorggies.firebaseio.com",
+    "project_id": "projectorggies",
+    "storage_bucket": "projectorggies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213560097877:android:a5c4ed202e8cd790",
+        "android_client_info": {
+          "package_name": "com.orggies.orggies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213560097877-4unmg7rogkgleg3obohk9uq29m4pmk6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orggies.orggies",
+            "certificate_hash": "2f3394ae8c393ad5dc367cd45a05aa7566194803"
+          }
+        },
+        {
+          "client_id": "213560097877-7je23h1j6reu2qbabs01vh90dmkha9a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcDqnQJnBtluNAkZBfx-P9U-No6jYWTpo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213560097877-7je23h1j6reu2qbabs01vh90dmkha9a7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
